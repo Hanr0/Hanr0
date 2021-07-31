@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Hanr0
-- 👀 I’m interested in coöperative democratic economics
-- 🌱 I’m currently learning Pythin
+- 👋 Hi, I’m @Hanr0, in early 2021 I became the proud father of a beautiful dauther which made me rethink my own path in life.
+- Looking for a career change with better job prospects than selling olives at a market stand, I started looking into programming. 
+- To my initial surprise this actually apeard to ba allot of fun.
+- from september I will be rolling into a local collage for software engeneering.
+- - 👀 I’m interested in coöperative democratic economics, 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
