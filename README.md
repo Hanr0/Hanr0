@@ -3,9 +3,8 @@
 - To my initial surprise this actually apeard to ba allot of fun.
 
 - - 👀 I’m interested in coöperative democratic economics, 
-- 🌱 I’m currently learning Python, HTML, CSS
-- 💞️ I’m looking to collaborate on Any 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScrypt.
+- 💞️ I’m looking to collaborate on any project that puts humanity before profit.
 
 <!---
 Hanr0/Hanr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
