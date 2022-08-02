@@ -2,7 +2,7 @@
 - Looking for a career change with better job prospects than selling olives at a market stand, I started looking into programming. 
 - To my initial surprise this actually apeard to ba allot of fun.
 
-- - 👀 I’m interested in coöperative democratic economics, 
+- 👀 I’m interested in coöperative democratic economics, 
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScrypt.
 - 💞️ I’m looking to collaborate on any project that puts humanity before profit.
 
